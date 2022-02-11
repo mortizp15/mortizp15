@@ -11,5 +11,5 @@ You can contact me by discord --> mortizp#6143
 🌌 Social networks
 
 ### Twitter: https://twitter.com/mortizp1502
-### Linkedin: linkedin.com/in/manu-ortiz-b209b1231
+### Linkedin: https://www.linkedin.com/in/manu-ortiz-b209b1231/
 ### Discord: mortizp#6143
