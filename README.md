@@ -1,8 +1,8 @@
-### Hi there 👋
+### ¡Hola! 👋
 
-👨‍💻 Who I am?
+### 👨‍💻 ¿Quién soy?
 
-Hello! I am 18 years old, I live in Spain and I am a computer science student, I am interested in web development, cybersecurity and I am constantly learning about languages such as HTML, CSS, JavaScript, PHP, SQL, Java and Shell. One of my favorite hobbies is creating discord servers for communities, streamers... In the future I want to dedicate myself professionally to the development of multiplatform and web applications. Welcome to my GitHub profile, I hope you like it!!
+¡Saludos desde España! A mis 19 años, me adentro en el fascinante universo de la informática. Entre líneas de HTML, acordes de JavaScript y misterios de redes, forjo mi camino. Soy un entusiasta que no solo busca entender, sino también innovar. En mi horizonte, aspiro a que mis ideas se materialicen en aplicaciones multiplataforma y web. Te invito a sumergirte en mi mundo a través de mi perfil en GitHub. ¡Espero que lo encuentres inspirador!
 
 
 
