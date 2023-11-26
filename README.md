@@ -23,9 +23,6 @@
           - 🚗 <strong>Conducción:</strong> Disfruto de la libertad y las experiencias que ofrece conducir.<br>
         </p>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortizp15&theme=tokyonight&layout=compact" alt="lenguajes"/>
-      </td>
     </tr>
   </table>
   <h2>Tecnologías</h2>
