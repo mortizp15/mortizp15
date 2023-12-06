@@ -3,10 +3,7 @@
   <br>
   <p align="center">
     <a href="https://www.linkedin.com/in/manuel-ortiz-4ba1442a1/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mortizp" height="30"/></a>
-    <a href="/" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mortizp" height="30"/></a>
-    <a href="/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="mortizp" height="30"/></a>
-    <a href="/" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="mortizp" height="30"/></a>
-  </p>
+    <a href="mailto:maortizpelegrin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mortizp" height="30"/></a>
   <h2>Sobre mí</h2>
   <table>
     <tr>
