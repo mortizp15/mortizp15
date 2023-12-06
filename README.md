@@ -13,8 +13,8 @@
       <td valign="top">
         <p>
           - 📍 <strong>Ubicación:</strong> Toledo, España.<br>
-          - 🔍 <strong>Edad:</strong> 19 años. Especialmente amable con quienes me rodean.<br>
-          - 🤝 <strong>Trabajo:</strong> Disfruto del trabajo colaborativo y escuchando a los demás.<br>
+          - 🔍 <strong>Edad:</strong> 19 años.<br>
+          - 📃 <strong>Aprendizaje: </strong>Aprendizaje autodidacta + guiado
         </p>
         <hr>
         <p>
