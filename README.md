@@ -36,6 +36,11 @@
       <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=black" alt="win"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="lin"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
+      <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"/>
+      <img src="https://img.shields.io/badge/ORACLE CLOUD-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"/>
+      <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
+      <img src="https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
+      <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
     </p>
     
   <h2>Colaboraciones</h2>
