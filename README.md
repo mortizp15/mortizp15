@@ -11,13 +11,8 @@
         <p>
           - 📍 <strong>Ubicación:</strong> Toledo, España.<br>
           - 🔍 <strong>Edad:</strong> 19 años.<br>
-          - 📃 <strong>Aprendizaje: </strong>Aprendizaje autodidacta + guiado
-        </p>
-        <hr>
-        <p>
-          - 🎵 <strong>Música:</strong> Un gran aficionado a escuchar diversos géneros musicales.<br>
-          - 💪 <strong>Ejercicio:</strong> Activo en mantenerme en forma a través del ejercicio regular.<br>
-          - 🚗 <strong>Conducción:</strong> Disfruto de la libertad y las experiencias que ofrece conducir.<br>
+          - 📃 <strong>Aprendizaje: </strong>Aprendizaje autodidacta + guiado<br>
+          - 💻 <strong>Estado: </strong>Estudiante de grado superior (DAW)
         </p>
       </td>
     </tr>
