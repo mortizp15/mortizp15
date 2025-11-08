@@ -10,7 +10,7 @@
       <td valign="top">
         <p>
           - 📍 <strong>Ubicación:</strong> Toledo, España.<br>
-          - 🔍 <strong>Edad:</strong> 19 años.<br>
+          - 🔍 <strong>Edad:</strong> 21 años.<br>
           - 📃 <strong>Aprendizaje: </strong>Aprendizaje autodidacta + guiado<br>
           - 💻 <strong>Estado: </strong>Estudiante de grado superior (DAW)
         </p>
